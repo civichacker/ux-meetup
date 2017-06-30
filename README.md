@@ -28,7 +28,7 @@ Samples:
 - Elections results in Nashville during 2016
 - Wifi locations
 
-We've released an open source library
+We've released an open source library that highlights prepositions as to inform the user sever-side filtering is happening: https://github.com/sophicware/prepositional
 
 ## Search Results
 Search results from Sophicware's server will contain data visualizations.
